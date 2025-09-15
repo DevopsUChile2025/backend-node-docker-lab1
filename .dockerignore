@@ -1,0 +1,23 @@
+# Variables de entorno
+.env
+.env.*
+
+# Git
+.git
+.gitignore
+
+# Dependencias (se instalan en el contenedor)
+node_modules
+
+# Documentación
+README.md
+*.md
+
+# Archivos temporales
+.DS_Store
+Thumbs.db
+*.log
+
+# Archivos de desarrollo
+.vscode/
+.idea/
